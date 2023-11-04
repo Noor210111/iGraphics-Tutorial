@@ -8,9 +8,9 @@ How to run the project:<br>
 2. Download the project code zip file
 3. Extract the zip file
 4. Open the .sln file from project folder on Visual Studio 13 Professional
-5. Build and Run the project
+5. Build and Run the project <br> <br> <br>
 
-
+# Some screenshots of the game while playing..
 ![1](https://github.com/Noor210111/iGraphics-Tutorial/assets/114507425/314f3499-1562-4173-8ebd-f07c54b8e7ae)
 ![2](https://github.com/Noor210111/iGraphics-Tutorial/assets/114507425/b607555d-8515-49b2-99e0-632fbf5b2ae0)
 ![3](https://github.com/Noor210111/iGraphics-Tutorial/assets/114507425/597a77a4-6f35-45cf-8f0b-9216e30c4026)
